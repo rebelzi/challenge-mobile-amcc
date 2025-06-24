@@ -125,20 +125,6 @@ This project is part of an educational course. If you'd like to contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 Course Information
-
-- **Course**: AMCC Mobile Development 2024
-- **Session**: Pertemuan 8
-- **Focus**: Flutter development, BLoC pattern, UI/UX design
-
-## 📄 License
-
-This project is created for educational purposes as part of the AMCC Mobile Development course.
-
-## 👨‍💻 Developer
-
-Developed with ❤️ as part of the AMCC Mobile Development learning journey.
-
 ---
 
 ## 🔧 Development Notes
