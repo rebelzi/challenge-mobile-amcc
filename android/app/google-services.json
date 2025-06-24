@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342731001153",
+    "project_id": "fir-amcc-mobile",
+    "storage_bucket": "fir-amcc-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342731001153:android:6a558d5534430cc75a25c0",
+        "android_client_info": {
+          "package_name": "com.example.finli_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvrm0lPPO3Cehu_GqFoCeahfs779voRc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
